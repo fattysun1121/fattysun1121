@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fattysun1121
-- 👀 I’m new in programming
+- 👀 I’m new to programming
 - 🌱 I’m currently learning pygame
 
 <!---
